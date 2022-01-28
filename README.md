@@ -1,2 +1,4 @@
 # Datasets-and-Results-of-evaluation-SDA
-Demo
+
+Datasets, Datasets-Targets and the results of the evalaution of Semantic Data Augmentation approach.
+
